@@ -1,3 +1,5 @@
+# Music Streaming Premium Subscriber Prediction
+
 **Task:** Create a model to predict which users on Website XYZ, a music-listening social networking website, will convert to a premium subscriber within the next 6 months.
 
 **Measurement:** As it's a highly unbalanced dataset, F-1 score.
@@ -6,7 +8,7 @@
 
 **Assignment Result:** Model predictions were uploaded to a class competition on Kaggle. Our group's project won first place.
 
-####Methodology:
+#### Methodology:
 **1. Feature Engineering**
 - Added some features that were ratios between various variables
 - As it's GDBT, I left all features in the model.
